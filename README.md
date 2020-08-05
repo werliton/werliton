@@ -37,8 +37,8 @@ Atualmente trabalho mais focado no gerenciamento da equipe na qual faço parte t
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werliton&hide=html&layout=compact&theme=cobalt&count_private=true" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=werliton&theme=cobalt&count_private=true" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werliton&hide=html&layout=compact&theme=cobalt&count_private=true" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=werliton&theme=cobalt&count_private=true" /></td>
   </tr> 
 </table>
 </center>
