@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="100px" src="https://avatars1.githubusercontent.com/u/4674324?s=460&u=cb676169391ac204b824569fd7465fa36488624d&v=4">
+<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQHh_vA2yeJJnw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=_MwT4vMFYrSGnzFNC-0fBQ5KxdbKNTp9qrOQjInO2pQ">
 
 
 # Werliton Silva
