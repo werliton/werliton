@@ -27,7 +27,7 @@ Atualmente trabalho mais focado no gerenciamento da equipe na qual faço parte t
 
  :rocket:  &nbsp; Estou trabalhando na **Grupo Ceuma Educacional como Analista de Sistemas**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Mobile usando React e React Native
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript, Firebase.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:Firebase, Google Analytics, AWS, PHP, Python, Moodle, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-WerlitonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/werliton-carlos-206b5b70/)](https://www.linkedin.com/in/werliton-carlos-206b5b70/) 
 | 
