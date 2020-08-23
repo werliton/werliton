@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/werliton.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/werliton?tab=followers)
 <!--
 **werliton/werliton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
