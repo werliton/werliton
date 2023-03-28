@@ -1,41 +1,23 @@
-### Hi there 👋
-
 [![GitHub followers](https://img.shields.io/github/followers/werliton.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/werliton?tab=followers)
-<!--
-**werliton/werliton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQHh_vA2yeJJnw/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=_MwT4vMFYrSGnzFNC-0fBQ5KxdbKNTp9qrOQjInO2pQ">
+# 💫 About Me:
+🔭 Tenho 10+ de experiência passeando por diversas áreas e <br>tecnologias tanto no front, backend e, também, em devops. <br><br>⚡ Desafios são a maior fonte de motivação.<br><br>🤝 Atualmente trabalho na Serasa Experian como Frontend Engineering Specialist.<br>
 
 
-# Werliton Silva
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/werliton-silva/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@werlitoncarlos) [![Gmail Badge](https://img.shields.io/badge/-WerlitonSilva-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:werlitoncarlos@gmail.com)](mailto:werlitoncarlos@gmail.com)
 
-## Quem sou 👋
-Tenho 8+ anos de experiência na área de desenvolvimento, passeando por diversas áreas e tecnologias tanto no front, backend e, também, em devops. Costumo ver o que tem de mais atual e está em grande uso para atualizar e agregar conhecimento à minha jornada. Trilhei por muito tempo pelo mundo PHP, hoje em dia sigo fortemente no mundo JS.
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=werliton&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=werliton&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=werliton&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-Trabalho na **GFT Brasil** no cliente **Localiza** e presto serviço para **Verx** em um projeto para **Dasa**.
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Mobile usando React e React Native
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript, Firebase.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-WerlitonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/werliton-carlos-206b5b70/)](https://www.linkedin.com/in/werliton-carlos-206b5b70/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-WerlitonSilva-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:werlitoncarlos@gmail.com)](mailto:werlitoncarlos@gmail.com)
+### ✍️ Frase favorita
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=monokai&quote=Inicie%20fazendo%20o%20básico%20para%20depois%20fazer%20o%20mágico&author=Werliton)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## Métricas de Contribuições
-<center>
-<table>
-  <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werliton&hide=html&layout=compact&theme=cobalt&count_private=true" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=werliton&theme=cobalt&count_private=true" /></td>
-  </tr> 
-</table>
-</center>
+---
+[![](https://visitcount.itsvg.in/api?id=werliton&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
