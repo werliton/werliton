@@ -1,7 +1,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/werliton.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/werliton?tab=followers)
 
 # 💫 About Me:
-🔭 Tenho 10+ de experiência passeando por diversas áreas e <br>tecnologias tanto no front, backend e, também, em devops. <br><br>⚡ Desafios são a maior fonte de motivação.<br><br>🤝 Atualmente trabalho na Serasa Experian como Frontend Engineering Specialist.<br>
+🔭 Tenho 9+ de experiência passeando por diversas áreas e <br>tecnologias tanto no front, backend e, também, em devops. <br><br>⚡ Desafios são a maior fonte de motivação.<br><br>🤝 Atualmente trabalho na Serasa Experian como Frontend Engineering Specialist.<br>
 
 
 ## 🌐 Socials:
