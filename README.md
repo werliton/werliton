@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Werliton Silva
 
-Sou Desenvolvedor Frontend com mais de **10 anos de experiência** em tecnologia, especializado em **React**, arquitetura escalável e performance web. Atuo também com **Angular**, sempre com foco em entregar produtos robustos, acessíveis e com código de alta qualidade.
+Sou Software Engineer com mais de **10 anos de experiência** em tecnologia, especializado em **React**, arquitetura escalável e performance web. Atuo também com **Angular**, sempre com foco em entregar produtos robustos, acessíveis e com código de alta qualidade.
 
 ---
 
