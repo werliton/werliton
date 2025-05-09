@@ -55,7 +55,7 @@ Sou Software Engineer com mais de **10 anos de experiência** em tecnologia, esp
 ## 📫 Vamos conversar?
 
 - [LinkedIn](https://www.linkedin.com/in/werliton-silva/)
-- GitHub: [@werliton](https://github.com/werliton)
+- [Gmail](mailto:werlitoncarlos@gmail.com)
 
 ---
 
