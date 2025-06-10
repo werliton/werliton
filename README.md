@@ -18,12 +18,18 @@ Sou Software Engineer com mais de **10 anos de experiência** em tecnologia, esp
 ## 🛠️ Tecnologias e ferramentas
 
 **Linguagens e frameworks:**
-- JavaScript, TypeScript
-- React, Next.js, Angular
-- Node.js
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Estilo e UI:**
-- Tailwind CSS, Styled Components, CSS Modules, SASS
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Sass 	![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+- CSS Modules, SASS
 
 **Testes e qualidade:**
 - Jest, Testing Library, Cypress
@@ -54,8 +60,8 @@ Sou Software Engineer com mais de **10 anos de experiência** em tecnologia, esp
 
 ## 📫 Vamos conversar?
 
-- [LinkedIn](https://www.linkedin.com/in/werliton-silva/)
-- [Gmail](mailto:werlitoncarlos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werliton-silva/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:werlitoncarlos@gmail.com)
 
 ---
 
