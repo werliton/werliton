@@ -1,5 +1,6 @@
-[![GitHub followers](https://img.shields.io/github/followers/werliton.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/werliton?tab=followers) ![Profile views](https://komarev.com/ghpvc/?username=werliton&label=Profile%20views&color=0e75b6&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=werliton&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
+[![GitHub followers](https://img.shields.io/github/followers/werliton.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/werliton?tab=followers) 
 
 # 👋 Olá, eu sou o Werliton Silva
 
